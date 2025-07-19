@@ -1,1 +1,1 @@
-project Live link:visionary-gumdrop-886894.netlify.app
+project Live link:https://app.netlify.com/projects/visionary-gumdrop-886894/overview
